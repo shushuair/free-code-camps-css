@@ -5,3 +5,7 @@
   width: 100px;
 }
 //
+.thick-green-border {
+   border: 10px solid green;
+ }
+ //
