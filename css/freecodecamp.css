@@ -9,3 +9,11 @@
    border: 10px solid green;
  }
  //
+ css//
+//
+<!-- import of the Lobster font (using the HTML comments you learned before) from Google Fonts so that it isn't available anymore-->
+//
+.smaller-image {
+  width: 100px;
+}
+//
