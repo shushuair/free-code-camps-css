@@ -99,3 +99,10 @@ p {
 //
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"></link>
 //
+.thick-green-border {
+   border-color: green;
+   border-width: 10px;
+   border-style: solid;
+   border-radius: 10px;
+ }
+//
