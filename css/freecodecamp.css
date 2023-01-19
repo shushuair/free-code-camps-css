@@ -70,3 +70,8 @@
 <h2 class = "red-text">CatPhotoApp</h2>
 
 //
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
