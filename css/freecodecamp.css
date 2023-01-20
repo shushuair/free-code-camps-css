@@ -116,3 +116,9 @@ border-radius: 50%;
   background-color: green;
 }
 //
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+}
+//
