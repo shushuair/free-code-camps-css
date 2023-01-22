@@ -154,4 +154,7 @@ padding: 40px 20px 20px 40px;
 
 <style>
   body {
-    background-color: black;
+    background-color: black;    
+    color: green;
+    font-family: monospace;
+  }
