@@ -146,3 +146,8 @@ padding: 40px 20px 20px 40px;
 <li>people</li>
 <li>vacuum cleaner</li>
 </ol>
+//
+[type='checkbox'] {
+  margin: 10px 0px 15px 0px;
+}
+//
