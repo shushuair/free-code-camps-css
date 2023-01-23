@@ -179,3 +179,5 @@ padding: 40px 20px 20px 40px;
 #orange-text {
   color: orange;
 }
+
+<h1 id="orange-text" class="pink-text blue-text">Hello World!</h1>
